@@ -1,0 +1,26 @@
+List of Acronyms
+ADEP: Aerodrome of DEParture
+
+ADES: Aerodrome of DEStination
+
+ADS-B: Automatic Dependent Surveillance–Broadcast
+
+AO: Aircraft Operator
+
+AOBT: Actual Off-Block Time
+
+ARVT: ARriVal Time
+
+ATOW: Actual TakeOff Weight
+
+ECMWF: European Centre for Medium-Range Weather Forecasts
+
+OSN: OpenSky Network
+
+RMSE: Root Mean Square Error
+
+TOW: TakeOff Weight
+
+WTC: Wake Turbulence Category
+
+189849066 rows × 14 columns

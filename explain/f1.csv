@@ -1,0 +1,10 @@
+aircraft_type ,name_adep               ,country_code_adep ,name_ades    ,country_code_ades
+A320          ,Paris Charles de Gaulle ,FR                ,Dublin       ,IE
+A320          ,London Heathrow         ,GB                ,iGA Istanbul ,TR
+A320          ,New York JFK            ,US                ,Brussels     ,BE
+A21N          ,Paris Charles de Gaulle ,FR                ,Dublin       ,IE
+A21N          ,London Heathrow         ,GB                ,iGA Istanbul ,TR
+A21N          ,New York JFK            ,US                ,Brussels     ,BE
+B789          ,Paris Charles de Gaulle ,FR                ,Dublin       ,IE
+B789          ,London Heathrow         ,GB                ,iGA Istanbul ,TR
+B789          ,New York JFK            ,US                ,Brussels     ,BE
