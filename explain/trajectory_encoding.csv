@@ -1,0 +1,14 @@
+﻿Featues,Type,Units,Encoding type
+flight_id,﻿categorical,none,none
+timestamp,﻿categorical,none,﻿datetime cyclical
+latitude,numerical,none,none
+longitude,numerical,none,none
+altitude,numerical,none,none
+groundspeed,numerical,none,none
+track,numerical,none,none
+vertical_rate,numerical,none,none
+icao24,﻿categorical,none,ordinal
+u_component_of_wind,numerical,none,none
+v_component_of_wind,numerical,km,none
+temperature,numerical,minute,none
+specific_humidity,numerical,km,none
