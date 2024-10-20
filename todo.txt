@@ -1,0 +1,3 @@
+predict the rate of climb for each flight_id trajectory
+save the prediction with flight_id, roc to .csv
+join the .csv to training set
